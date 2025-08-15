@@ -1,4 +1,4 @@
-This's a Robot Innovedex Acetaminophen's team from Attarkiah Islamiah Institute
+This's a Code Robot Innovedex Acetaminophen's team from Attarkiah Islamiah Institute
 
 ในการแข่งขันครั้งนี้ มีทีมเข้าแข่งขันกว่า 140+ ทีม พวกผมได้ผ่านเข้ารอบ 32 ทีมสุดท้าย  แต่พวกผมพ่ายแพ้ให้กับทีมคู่แข่งจากการทำฟาวล์ (โดนัทกระเด็นเข้าไปในสนามคู่แข่งประมาณ 2 มิลลิเมตร)
 
