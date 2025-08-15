@@ -195,7 +195,7 @@ class RobotController:
         self.send_status_to_gui("เริ่มการดัน")
         self.move_lift_smoothly(80)
         self.move_gripper_smoothly(self.GRIPPER_CLOSE_ANGLE)
-        self.move_reach_smoothly(45)
+        self.move_reach_smoothly(45)   #ลบบรรทัดนี้เพื่อชนะ
         time.sleep(0.2)
         self.move_lift_smoothly(self.HOME_LIFT_ANGLE)
         self.move_reach_smoothly(self.HOME_REACH_ANGLE)
